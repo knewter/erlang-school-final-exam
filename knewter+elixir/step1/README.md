@@ -3,6 +3,13 @@
 See [this link](https://github.com/NashFP/erlang-school-final-exam) for details
 mnkay?
 
+## NOTE: This is a bad design
+
+Gproc's going away, going to follow the Healthy Properties laid out [in the talk on Distributed Computing at ErlangCamp 2013 Nashville](https://github.com/knewter/erlang_camp_2013/tree/master/distributed_systems#healthy-properties)
+
+
+
+
 ## Step 1: super simple ATM
 We will start with a super simple server. It will help everyone get comfortable
 compiling (and running) code.
